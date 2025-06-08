@@ -1,3 +1,5 @@
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # BecaGIS Resources Sharing
 
 BecaGIS Resources Sharing contains styles, scripts, models and other QGIS 
